@@ -1,0 +1,81 @@
+
+
+
+
+
+<h3>Things We Have Used in this project </h3>
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?label=Vue.js&amp;message=v2.6&amp;color=4FC08D&amp;style=flat-square&amp;logo=vue.js&amp;logoColor=ffffff" alt="vue.js">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  
+
+
+# Installation
+
+1. Install XAMPP or WAMPP.
+
+2. Open XAMPP Control panal and start [apache] and [mysql] .
+
+3. Download project from github(https://github.com/sayan00722/college_management.git)  
+    OR follow gitbash commands
+    
+    i>cd C:\\xampp\htdocs\
+    
+    ii>git clone https://github.com/sayan00722/college_management.git
+    
+4. extract files in C:\\xampp\htdocs\college_management(make sure to rename the folder to college_management)
+
+5. open link localhost/phpmyadmin
+
+6. click on new at side navbar.
+
+7. give a database name as (college_management) hit on create button.
+
+8. after creating database name click on import.
+
+9. browse the file in directory[college_management.sql].
+
+10. after importing successfully.
+
+11. open any browser and type http://localhost/college_management.
+
+12. first register and then login
+
+13. admin login details  Email= admin@college.edu and Password=sayan1234
+
+14. student login details  Email= student.alex@college.edu and Password=sayan1234
+
+15. professor login details  Email= student.alex@college.edu and Password=sayan1234
+
+
+
+
+# Screenshots
+![Image of adduser](https://github.com/sayan00722/college_management/blob/main/screenshots/admin.png)
+![Image of adduser](https://github.com/sayan00722/college_management/blob/main/screenshots/admin2.png)
+![Image of adduser](https://github.com/sayan00722/college_management/blob/main/screenshots/admin3.png)
+![Image of adduser](https://github.com/sayan00722/college_management/blob/main/screenshots/admin4.png)
+![Image of adduser](https://github.com/sayan00722/college_management/blob/main/screenshots/admin5.png)
+![Image of adduser](https://github.com/sayan00722/college_management/blob/main/screenshots/prof1.png)
+![Image of adduser](https://github.com/sayan00722/college_management/blob/main/screenshots/prof2.png)
+![Image of adduser](https://github.com/sayan00722/college_management/blob/main/screenshots/prof3.png)
+![Image of adduser](https://github.com/sayan00722/college_management/blob/main/screenshots/prof4.png)
+![Image of adduser](https://github.com/sayan00722/college_management/blob/main/screenshots/prof5.png)
+![Image of adduser](https://github.com/sayan00722/college_management/blob/main/screenshots/student1.png)
+![Image of adduser](https://github.com/sayan00722/college_management/blob/main/screenshots/student2.png)
+![Image of adduser](https://github.com/sayan00722/college_management/blob/main/screenshots/student3.png)
+![Image of adduser](https://github.com/sayan00722/college_management/blob/main/screenshots/student4.png)
+![Image of adduser](https://github.com/sayan00722/college_management/blob/main/screenshots/student5.png)
+![Image of adduser](https://github.com/sayan00722/college_management/blob/main/screenshots/student6.png)
+
+
+
+
+
