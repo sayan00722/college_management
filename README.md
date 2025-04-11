@@ -52,7 +52,7 @@
 
 14. student login details  Email= student.alex@college.edu and Password=sayan1234
 
-15. professor login details  Email= student.alex@college.edu and Password=sayan1234
+15. professor login details  Email= prof.john@college.edu and Password=sayan1234
 
 
 
