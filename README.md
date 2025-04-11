@@ -31,27 +31,32 @@
     
 4. extract files in C:\\xampp\htdocs\college_management(make sure to rename the folder to college_management)
 
-5. open link localhost/phpmyadmin
+    
+5. File Structure<br>
+![Image of adduser](https://github.com/sayan00722/college_management/blob/main/screenshots/file.png)
 
-6. click on new at side navbar.
 
-7. give a database name as (college_management) hit on create button.
+6. open link localhost/phpmyadmin
 
-8. after creating database name click on import.
+7. click on new at side navbar.
 
-9. browse the file in directory[college_management.sql].
+8. give a database name as (college_management) hit on create button.
 
-10. after importing successfully.
+9. after creating database name click on import.
 
-11. open any browser and type http://localhost/college_management.
+10. browse the file in directory[college_management.sql].
 
-12. first register and then login
+11. after importing successfully.
 
-13. admin login details  Email= admin@college.edu and Password=sayan1234
+12. open any browser and type http://localhost/college_management.
 
-14. student login details  Email= student.alex@college.edu and Password=sayan1234
+13. first register and then login
 
-15. professor login details  Email= prof.john@college.edu and Password=sayan1234
+14. admin login details  Email= admin@college.edu and Password=sayan1234
+
+15. student login details  Email= student.alex@college.edu and Password=sayan1234
+
+16. professor login details  Email= prof.john@college.edu and Password=sayan1234
 
 
 
